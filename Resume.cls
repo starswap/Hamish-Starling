@@ -20,13 +20,13 @@
 \definecolor{darkgray}{rgb}{0.66, 0.66, 0.66}
 \definecolor{etonblue}{rgb}{0.59, 0.78, 0.64}
 \definecolor{sepia}{rgb}{0.44, 0.26, 0.08}
-\definecolor{themecolor}{named}{navyblue}
+\definecolor{themecolor}{named}{black}
 \definecolor{themecolor2}{named}{bluegray}
 
 % http://latexcolor.com/
 %\pagecolor{lightGrey}
 
-\RequirePackage[colorlinks = true, linkcolor = themecolor, urlcolor = themecolor, citecolor = themecolor, anchorcolor = themecolor]{hyperref}
+\RequirePackage[colorlinks = true, linkcolor = navyblue, urlcolor = navyblue, citecolor = navyblue, anchorcolor = navyblue]{hyperref}
 
 
 
